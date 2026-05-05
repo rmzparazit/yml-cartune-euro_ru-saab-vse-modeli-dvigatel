@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-05-05 23:23">
+  <shop>
+    <name>cartune-euro.ru</name>
+    <company>cartune-euro.ru</company>
+    <url>https://cartune-euro.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3080099538">Двигатель Saab (все модели)</category>
+    </categories>
+    <offers>
+      <offer id="141353594457524038752692025569935235913" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R c доставкой</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Контрактный двигатель B207R для Saab 9-3 2007 года. Оригинальный пробег 166942 км. Проверен на работоспособность. В комплекте с навесным оборудованием. Возможна продажа</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+      <offer id="97147380169865125196728235134078637379" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R с гарантией</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Двигатель B207R от Saab 9-3 2007 года выпуска. Пробег 166942 км. Есть аукционный лист из Японии. Предоставляем полный пакет документов для постановки на учёт</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+      <offer id="143289964248555696700095398760779168914" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R заказать</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Оригинальный двигатель Saab 9-3 2007 года с номером 55562684. Пробег 166942 км. Проверен эндоскопом по запросу. Возможна продажа без навесного оборудования</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+      <offer id="280691838768836634594750846544248591110" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R купить</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Контрактный двигатель B207R для Saab 9-3 2007. Пробег 166942 км. В наличии на складе в Москве. Предоставим подробное фото и видео работы ДВС</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+      <offer id="252105198769765073644663014073696961977" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R по низкой цене</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Двигатель Saab 9-3 2007 года, модель B207R. Оригинальный пробег 166942 км. В комплекте с навесным. Возможна проверка эндоскопом. Документы для постановки на учёт</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+      <offer id="77656134768723328891583819481424659104" available="true" type="vendor.model">
+        <name>Двигатель Saab 9-3 2007 B207R узнать стоимость</name>
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <price>134999</price>
+        <oldprice>148498</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>3080099538</categoryId>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_637.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_635.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/36/0009_36_300.jpg</picture>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0009/32/0009_32_636.jpg</picture>
+        <typePrefix>Двигатель</typePrefix>
+        <vendor>Saab</vendor>
+        <model>9-3 2007 B207R</model>
+        <description>Двигатель B207R от Saab 9-3 2007. Пробег 166942 км. Снят с автомобиля Saab 9-3 2007. Есть аукционный лист. Цена за двигатель в сборе как на фото</description>
+        <sales_notes>Пробег 166942 км, аукционный лист, возможна</sales_notes>
+        <custom_label_0>Контрактный</custom_label_0>
+        <custom_label_1>Двигатель</custom_label_1>
+        <custom_label_2>Saab</custom_label_2>
+        <custom_label_3>Б/У</custom_label_3>
+        <param name="Кузов">9440</param>
+        <param name="Двигатель">B207R</param>
+        <param name="Год">2007</param>
+        <param name="Номер по производителю">55562684</param>
+        <param name="Пробег">166942 км</param>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="col_141353594457524038752692025569935235913">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R c доставкой</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+      <collection id="col_97147380169865125196728235134078637379">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R с гарантией</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+      <collection id="col_143289964248555696700095398760779168914">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R заказать</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+      <collection id="col_280691838768836634594750846544248591110">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R купить</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+      <collection id="col_252105198769765073644663014073696961977">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R по низкой цене</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+      <collection id="col_77656134768723328891583819481424659104">
+        <url>https://cartune-euro.ru/autopart-product/0100000064afc496ce0df132/</url>
+        <name>Двигатель Saab 9-3 2007 B207R узнать стоимость</name>
+        <description>Контрактная Двигатель Saab 9-3 (кузов 9440, двс B207R)</description>
+        <picture>https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/93/0010_93_341.jpg</picture>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
